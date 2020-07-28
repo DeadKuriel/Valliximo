@@ -18,4 +18,13 @@
     <string name="btn_login">ENTRAR</string>
     <string name="btn_link_to_register">¿Aún no eres miembro? ¡Registrate en Firebase ahora!</string>
     <string name="btn_link_to_login">Ya estoy registrado. ¡Ingresar!</string>
+    <string name="btn_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="btn_reset_password">Recuperar contraseña</string>
+    <string name="btn_back"><![CDATA[<< Volver]]></string>
+    <string name="hint_new_email">Correo electronico nuevo</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_sign_out">Cerrar sesión</string>
+    <string name="lbl_forgot_password">¿Olvidaste tu correo?</string>
+    <string name="forgot_password_msg">Necesitamos tu correo electronico registrado para enviarte instrucciones para recuperar tu contraseña.</string>
 </resources>
