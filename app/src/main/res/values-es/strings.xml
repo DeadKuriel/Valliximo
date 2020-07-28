@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La app de Valle de Bravo</string>
+    <string name="email">Correo electronico</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="minimun_password">¡Contraseña muy corta, usa minimo 6 caracteres!</string>
+    <string name="auth_failed">Fallo la autenticación, verifica tu correo electronico y contraseña o registrate</string>
+    <string name="change_email">Cambia tu email</string>
+    <string name="change_password">Cambia tu contraseña</string>
+    <string name="send_password_reset_email">El correo para cambiar tu contraseña ha sido enviado</string>
+    <string name="remove_user">Eliminar usuario</string>
+    <string name="new_pass">Contraseña nueva</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="title_activity_login">Ingresa</string>
+    <string name="hint_email">Correo electronico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre Completo</string>
+    <string name="btn_login">ENTRAR</string>
+    <string name="btn_link_to_register">¿Aún no eres miembro? ¡Registrate en Firebase ahora!</string>
+    <string name="btn_link_to_login">Ya estoy registrado. ¡Ingresar!</string>
+</resources>

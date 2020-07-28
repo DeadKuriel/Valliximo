@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228151495749",
+    "firebase_url": "https://valliximo.firebaseio.com",
+    "project_id": "valliximo",
+    "storage_bucket": "valliximo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228151495749:android:ea4eb0aa09d2b6c770272c",
+        "android_client_info": {
+          "package_name": "com.charlessoftware.valliximo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228151495749-esnh1eeml7r874hn4qbbbc9r6880k16j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charlessoftware.valliximo",
+            "certificate_hash": "625928082d2fe6b04c943b58911a1a9bf6f1e100"
+          }
+        },
+        {
+          "client_id": "228151495749-vkvudf5odaa97j7bk2ikcf4j78racg93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7cu4gDtNoXIs_4H7OFRZ0butMsUYUYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228151495749-vkvudf5odaa97j7bk2ikcf4j78racg93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
